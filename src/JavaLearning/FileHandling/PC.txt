@@ -1,0 +1,8 @@
+This is Writtern From Buffered Write
+This is Writtern From Buffered Write
+This is Writtern From Buffered Write
+This is Writtern From Buffered Write
+This is Written from PrintWriter
+This is Written from PrintWriter
+This Text is written Throw FOSThis Text is written Through FOSThis Text is written Through FOS
+This Text is written Through FOS
