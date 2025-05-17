@@ -1,4 +1,4 @@
-package JavaLearning.FileHandling;
+package JavaLearning.FileHandling.Writer;
 
 import java.io.*;
 import java.io.IOException;
